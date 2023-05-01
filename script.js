@@ -1,5 +1,5 @@
 //your code here
-let box=document.getElementById("evaluateText");
+let box=document.getElementById("evaluatedText");
 let render=document.getElementById("letterCount");
 box.addEventListener("input",()=>{
 	let str=box.value;
